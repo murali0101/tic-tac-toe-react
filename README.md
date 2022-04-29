@@ -15,8 +15,7 @@ You may also see any lint errors in the console.
 ![](demo.gif)
 
 ### Application Demo -
-
-(https://tic-tac-toe-02.netlify.app/)
+https://tic-tac-toe-02.netlify.app/
 
 
 ### Development steps-
